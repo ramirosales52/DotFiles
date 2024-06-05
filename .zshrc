@@ -62,6 +62,8 @@ alias cat='batcat'
 alias tm='tmux'
 alias nf='neofetch'
 alias sudo='sudo -E'
+alias lzd='lazydocker'
+alias lzg='lazygit'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
